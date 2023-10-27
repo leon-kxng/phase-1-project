@@ -13,7 +13,7 @@
   <p align="center">
     Weather application used to show forecast from OpenWeather API.
     <br />
-    <a href=""><strong>View Demo</strong></a>
+    <a href="https://phase1weatherio.netlify.app/#/current-location"><strong>View Demo</strong></a>
   </p>
 </div>
 
@@ -55,7 +55,7 @@ This is a weather app using openWeatherAPI
 * ESLint + Airbnb JavaScript Style Guide
 * Prettier
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -74,7 +74,7 @@ You will need `Node.js` and `npm` installed globally on your machine.
 
 * Open `./dist/index.html` file with browser.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -92,15 +92,14 @@ You will need `Node.js` and `npm` installed globally on your machine.
 * Tried to maintain clean code.
 * Cross tested on Firefox and Chromium based browsers.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
 <!-- AUTHORS -->
 ## Authors
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+leon-kxng  & [MIT license](LICENSE) .
 
 
 
